@@ -1,6 +1,5 @@
 Motocross Madness
 
-![CI](https://github.com/sobri3195/godzilla/workflows/CI/badge.svg)
 
 Motocross Madness - Endless Motocross Driving Experience
 
