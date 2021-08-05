@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>148</string>
+                <key>className</key>
+                <string>PTModelLinker</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>-60.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Torque</key>
+                <dict>
+                    <key>value</key>
+                    <string>200.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Button Activated</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>149</string>
+                <key>className</key>
+                <string>PTModelLinker</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>-60.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Torque</key>
+                <dict>
+                    <key>value</key>
+                    <string>200.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Button Activated</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>

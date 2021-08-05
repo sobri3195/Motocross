@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>9214</string>
+                <key>className</key>
+                <string>PTModelObjectCharacterSelector</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Selector</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{482.524,212.311}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Label Name</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>4</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9216</string>
+                <key>className</key>
+                <string>PTModelObjectCharacterSelector</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Selector</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{525.262,204.039}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{14.604,1.910}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spread</key>
+                <dict>
+                    <key>value</key>
+                    <string>200.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Label Vertical Spacing</key>
+                <dict>
+                    <key>value</key>
+                    <string>50.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Label Name</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>4</string>
+                </dict>
+                <key>zDepth</key>
+                <string>9</string>
+            </dict>
+        </array>
+    </dict>
+</plist>

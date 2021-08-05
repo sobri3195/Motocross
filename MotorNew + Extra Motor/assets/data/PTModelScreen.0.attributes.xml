@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>206</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenStart</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>207</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenMainMenu</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>208</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenGameField</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>210</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenPause</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>272</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Interstitials Freq.</key>
+                <dict>
+                    <key>value</key>
+                    <string>4.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenGameOver</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>380</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenCoinShop</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>382</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenInfo</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>387</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenEndScene</string>
+            </dict>
+        </array>
+    </dict>
+</plist>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>127</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>129</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>5968</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9168</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9170</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>9361</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9176</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9178</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>9362</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9184</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9186</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>9363</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9192</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9194</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>9364</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9200</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9202</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>9365</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9368</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9370</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>9438</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9376</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9378</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>9439</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9384</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9386</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>9440</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9392</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9394</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>9441</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9400</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9402</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>9442</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9408</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9410</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>9443</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9416</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9418</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>9444</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>

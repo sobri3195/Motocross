@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>1</string>
+                <key>className</key>
+                <string>PTModelGeneralSettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Version Number</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.3</string>
+                </dict>
+                <key>Application Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>MotocrossMadness</string>
+                </dict>
+                <key>Comments</key>
+                <dict>
+                    <key>value</key>
+                    <string>add comments here</string>
+                </dict>
+                <key>Reset text</key>
+                <dict>
+                    <key>value</key>
+                    <string>PLEASE NOTE:  You are about to reset all your game progress and start completely over.  Are you sure you want to do that?</string>
+                </dict>
+                <key>Game Speed Min</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Speed Max</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Speed Increase</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Preset</key>
+                <dict>
+                    <key>value</key>
+                    <string>&lt;Custom&gt;</string>
+                </dict>
+                <key>Jump</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump Timeout</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump From Ground</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Left Lean Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.350000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Right Lean Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.350000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Simulation Time Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.200000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.500000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Character Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.920000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Gravity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Score Multiplier</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.100000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Platform Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.200000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>lastIdNumber</key>
+                <string>9902</string>
+                <key>platformSpecificValues</key>
+                <dict>
+                    <key>Apple iOS App Store</key>
+                    <dict>
+                        <key>heyZap</key>
+                        <string></string>
+                        <key>bundleID</key>
+                        <string></string>
+                        <key>leaderboardId</key>
+                        <string></string>
+                        <key>shareMessageTemplate</key>
+                        <string></string>
+                        <key>nameOnDevice</key>
+                        <string></string>
+                        <key>bannersOrder</key>
+                        <string></string>
+                        <key>iAds</key>
+                        <string>0</string>
+                        <key>charboostID</key>
+                        <string></string>
+                        <key>appLovin</key>
+                        <string></string>
+                        <key>charboostSignature</key>
+                        <string></string>
+                        <key>adMobBanner</key>
+                        <string></string>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Apple Mac App Store</key>
+                    <dict>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Google Play Store</key>
+                    <dict>
+                        <key>leaderboardId</key>
+                        <string>leaderboard</string>
+                        <key>googlePlayId</key>
+                        <string>1234567890</string>
+                        <key>versionCode</key>
+                        <string>3</string>
+                        <key>adMobBanner</key>
+                        <string>xxxxxxxxxxxxxxxxxxxxxxxx</string>
+                        <key>adMobInterstitial</key>
+                        <string>xxxxxxxxxxxxxxxxxxxxxxxx</string>
+                        <key>bundleID</key>
+                        <string>com.game.moto</string>
+                        <key>nameOnDevice</key>
+                        <string>MotocrossMadness</string>
+                        <key>shareMessageTemplate</key>
+                        <string>share message</string>
+                        <key>reviewLink</key>
+                        <string>review link</string>
+                    </dict>
+                    <key>Amazon App Store</key>
+                    <dict>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Microsoft Windows Marketplace</key>
+                    <dict>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                </dict>
+                <key>scoreType</key>
+                <string>Distance</string>
+                <key>shareScreen</key>
+                <string>Game Field Screen</string>
+                <key>objectFrameEdgeState_0</key>
+                <string>2</string>
+                <key>objectFrameEdgeState_1</key>
+                <string>0</string>
+                <key>objectFrameEdgeState_2</key>
+                <string>1</string>
+                <key>objectFrameEdgeState_3</key>
+                <string>1</string>
+                <key>objectFrameRect</key>
+                <string>{{0.0017,0.0031},{0.4014,0.9969}}</string>
+                <key>_ibVersion</key>
+                <string>1.3.5</string>
+                <key>t</key>
+                <string>0</string>
+                <key>orientation</key>
+                <string>PTPScreenOrientationLandscape</string>
+                <key>screenAdjustment</key>
+                <string>0</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
